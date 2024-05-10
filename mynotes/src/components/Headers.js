@@ -1,11 +1,12 @@
 const Header = () => {
     return(
-        <div>
+        <div className="app-header">
             <h1>
-                MY HEADER
+                Notes
             </h1>
         </div>
     )
 }
 
 export default Header;
+ 
